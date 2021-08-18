@@ -1,0 +1,11 @@
+1) git init - The git init command is usually the first command you’d run in any new project that is not already a Git repository (also commonly called repo).
+2) git clone - The git clone command is used to download the source code from a remote repository (like GitHub, Bitbucket, or GitLab).
+3) git add - Every time we create a new file, delete it, or make a change, we’ll have to tell Git to track it and add it to the staging area. Otherwise, the files in which we made changes to wouldn’t be added when we try to push our changes.
+4) git commit - It’s commonly used to save our changes . Every time you commit your code changes, you’ll also include a message to briefly describe the changes we made.
+5) git diff - Git Diff is my go-to command when I want to quickly see the difference between my current branch and another branch (usually the branch I’m merging into)....To see the changes.
+6) git checkout - To switch to the another branch.
+7) git push - To make all your committed changes available to your teammates, you’ll have to push them to the remote origin.
+8) git pull - The git pull command allows you to fetch all the changes that your teammates pushed and automatically merge them into your local repo.
+9) git status - The Git Status command can tell you all the information you’ll need to know.
+10) git log - Displays the entire commit history.
+11) git merge - Once we are done with development inside our feature branch and tested our code, we can merge our branch with the parent branch.
