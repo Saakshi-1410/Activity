@@ -9,3 +9,6 @@
 9) git status - The Git Status command can tell you all the information you’ll need to know.
 10) git log - Displays the entire commit history.
 11) git merge - Once we are done with development inside our feature branch and tested our code, we can merge our branch with the parent branch.
+12) git reset - Used to undo local changes to the git repo.
+
+This repo is tracked by Github
